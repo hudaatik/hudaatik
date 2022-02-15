@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @hudaatik
+- 👀 I’m interested in anime, kpop, and tech...
+- 🌱 I’m currently learning sofware engineering ...
+- 📫 How to reach me my gmail: hudaatik98@gmail.com or twitter @hudaatik ...
+
+<!---
+hudaatik/hudaatik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
